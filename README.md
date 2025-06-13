@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/2e65ace1-7fab-4b20-aaac-a9e19155ea4c)
+
 #
 
-### 御機嫌よー
+### About!!!!
 
 * Main language - C++
 
