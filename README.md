@@ -22,6 +22,4 @@
 * [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Warl0rdd/)
 
 # Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warl0rdd&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warl0rdd&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
