@@ -1,4 +1,4 @@
-## Hi there 👋
+## sigma c++ profile 2025
 
 <!--
 **stritly/stritly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
